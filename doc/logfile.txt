@@ -1,0 +1,40 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files (x86)\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.11.jar;C:\Program Files (x86)\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files (x86)\BlueJ\lib\lang-stride.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS
+-d
+E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS\Pemain.java
+<---- end of javadoc command ---->
+Loading source file E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS\Pemain.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_144
+Building tree for all the packages and classes...
+Generating E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS\doc\Pemain.html...
+E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS\Pemain.java:32: warning - @Return is an unknown tag -- same as a known tag except for case.
+E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS\Pemain.java:52: warning - @Return is an unknown tag -- same as a known tag except for case.
+Generating E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS\doc\package-frame.html...
+Generating E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS\doc\package-summary.html...
+Generating E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS\doc\allclasses-frame.html...
+Generating E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS\doc\allclasses-noframe.html...
+Generating E:\SEMESTER 3\PBO\MINI PROJECT\MiniprojectUAS\doc\index.html...
+2 warnings

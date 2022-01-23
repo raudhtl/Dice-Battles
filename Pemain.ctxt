@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Pemain
+comment0.text=\r\n\ Class\ Pemain\ adalah\ \r\n\ Deskripsi\ Game\:\ Game\ ini\ dimainkan\ oleh\ 2\ pemain.\ Setiap\ pemain\ menebak\ angka\ dadu\ yang\ akan\ muncul.\ Tebakan\ benar\ diberikan\ 10\ poin,\r\n\ sementara\ jika\ tebakan\ salah\ pemain\ mendapat\ poin\ 0.\ Jika\ tebakan\ salah\ dan\ muncul\ dadu\ angka\ 6\ maka\ diberikan\ bonus\ 5\ poin.\ Masing-masing\r\n\ pemain\ mendapat\ 10\ kali\ kesempatan\ untuk\ menebak.\ Pemain\ dengan\ skor\ tertinggi\ adalah\ pemenangnya.\r\n\r\n\ @author\ Desi\ Mardiani,\ Nanda\ Syafitri,\ Putri\ Mauliza,\ Putri\ Zainidar,\ Raudhatul\ Jannah\r\n\ \r\n\ @version\ 28\ Oktober\ 2017\r\n
+comment1.params=nama
+comment1.target=void\ Pemain(java.lang.String)
+comment1.text=\r\n\ Method\ Constructor\ kelas\ Pemain\r\n\ menginisialisasi\ nilai\ awal\ variabel\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNama()
+comment2.text=\r\n\ @Return\ nama\ pemain\r\n
+comment3.params=nama
+comment3.target=void\ setNama(java.lang.String)
+comment3.text=\r\n\ Memanggil\ parameter\ nama\r\n\ Assignment\ nilai\ dari\ parameter\ nama\ yang\ dikirim\ \r\n\ kepada\ this.nama\ kepunyaan\ object\r\n
+comment4.params=
+comment4.target=int\ getNilai()
+comment4.text=\r\n\ @Return\ nilai\r\n
+comment5.params=nilai
+comment5.target=void\ setNilai(int)
+comment5.text=\r\nMemanggil\ parameter\ nilai\r\nMenghitung\ perolehan\ nilai\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

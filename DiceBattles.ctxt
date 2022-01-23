@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DiceBattles
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ DiceBattles\ here.\r\n\r\n\ @author\ Desi\ Mardiani,\ Nanda\ Syafitri,\ Putri\ Mauliza,\ Putri\ Zainidar,\ Raudhatul\ Jannah\r\n\ \r\n\ @version\ 28\ Oktober\ 2017\r\n
+comment1.params=
+comment1.target=void\ Dadu()
+comment2.params=
+comment2.target=int\ getSisi()
+comment3.params=
+comment3.target=void\ lemparDadu()
+numComments=4
